@@ -1,2 +1,2 @@
-# california-housing-mlops
+# California Housing MLOps
 End-to-end MLOps pipeline for the California Housing prediction model, featuring Docker containerization, FastAPI serving, and CI/CD workflows.
