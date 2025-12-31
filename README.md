@@ -35,6 +35,7 @@ You can run the API without installing Python or dependencies.
 
 ## 📂 Project Structure
 
+```text
 ├── app/
 │   └── main.py          # FastAPI application entry point
 ├── model/
@@ -43,6 +44,7 @@ You can run the API without installing Python or dependencies.
 ├── Dockerfile           # Blueprint for the container
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
+```
 
 ## 🧠 Model Details
 
