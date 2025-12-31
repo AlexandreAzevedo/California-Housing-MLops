@@ -17,9 +17,7 @@ This project demonstrates a complete **MLOps pipeline**, moving from data explor
 
 ---
 
-## 💻 How to Run Locally
-
-### Option A: Using Docker (Recommended)
+## 💻 How to Run Locally (via Docker)
 You can run the API without installing Python or dependencies.
 
 1. **Build the Image**
