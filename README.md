@@ -10,7 +10,7 @@ This project demonstrates a complete **MLOps pipeline**, moving from data explor
 * **Reproducibility:** Strict versioning via `requirements.txt`.
 
 ## 🛠️ Tech Stack
-* **Python 3.11**
+* **Python 3.12**
 * **Docker**
 * **FastAPI**
 * **Scikit-Learn / Pandas**
